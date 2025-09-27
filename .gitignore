@@ -87,8 +87,10 @@ data/assets/*.gif
 data/assets/*.bmp
 
 # Font files
-data/font/*.ttf
-data/font/*.otf
+*data/font/*.ttf
+*data/font/*.otf
 
 # Icon files
-*.ico
+.ico
+.zip
+.md
