@@ -72,9 +72,23 @@ replays/
 Chess-Isometry-Rework.exe
 Chess-Isometry-Rework.spec
 
-# Audio/Video (если вы не хотите включать большие медиа файлы)
-# data/audio/*.mp3
-# data/audio/*.wav
-# data/audio/*.ogg
-# data/sfx/*.wav
-# data/sfx/*.mp3
+# Audio/Video files
+data/audio/*.mp3
+data/audio/*.wav
+data/audio/*.ogg
+data/sfx/*.wav
+data/sfx/*.mp3
+
+# Image files
+data/assets/*.png
+data/assets/*.jpg
+data/assets/*.jpeg
+data/assets/*.gif
+data/assets/*.bmp
+
+# Font files
+data/font/*.ttf
+data/font/*.otf
+
+# Icon files
+*.ico
