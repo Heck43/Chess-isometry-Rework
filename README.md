@@ -87,7 +87,7 @@ python Chess.pyw
 
 ## Авторы
 
-- Оригинал: SlavaSlavyan <a href = "https://github.com/SlavaSlavyan/Chess-isometry"> Оригинал</a>
+- Оригинал:<a href = "https://github.com/SlavaSlavyan"> SlavaSlavyan</a>
 - Переработка и дополнения: Heck43
 
 
