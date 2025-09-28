@@ -1,6 +1,6 @@
 # Chess Isometry Rework 1.0
 
-Современная переработка оригинального <a href = "https://github.com/SlavaSlavyan/Chess-isometry"> Chess Isometry.<a/> Упор на удобство игры, плавные анимации и общий визуальный полиш, сохранив изометрический стиль.
+Переработка оригинального <a href = "https://github.com/SlavaSlavyan/Chess-isometry"> Chess Isometry.<a/> Упор на удобство игры, плавные анимации и общий визуальный полиш, сохранив изометрический стиль.
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/fd92f523-3ebc-4a29-b970-b5ad2229bf20" />
 
 ## Что нового (по сравнению с той версией)
